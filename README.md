@@ -27,14 +27,14 @@ For example, by taping 1/31/2010, we can see in the chart all the UFOs reported 
 ![date_enter.png](static/images/date_enter.png)
 
 In the same way, when we look at the city, we can see all the reports for the filtered city. 
-![city_enter.png](static\images\city_enter.png)
+![city_enter.png](static/images/city_enter.png)
 
 We can choose one parameter or all five.
 In the example below, we can see the reports when we filter date and city together.
-![date_and_city_enter.png](static\images\date_and_city_enter.png)
+![date_and_city_enter.png](static/images/date_and_city_enter.png)
 
 ## Summary:
--- Drawback-  one of the drawbacks of this design is that we can't see statistical information. We don't know on what date there were the most reports of UFOs and we don't know in what city\state\contry there are the most reports. 
--- Recommendation: 
---- Adding statistical information for the table. 
---- Adding option to filter the data from the most recurring date, city, state, country, and shape
+  - Drawback-  one of the drawbacks of this design is that we can't see statistical information. We don't know on what date there were the most reports of UFOs and we    don't know in what city\state\contry there are the most reports. 
+- Recommendation: 
+  - Adding statistical information for the table. 
+  - Adding option to filter the data from the most recurring date, city, state, country, and shape
